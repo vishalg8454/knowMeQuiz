@@ -17,6 +17,12 @@ var db = [{
 },{
   question:"Do I know web development?",
   answer:"no"
+},{
+  question:"Introvert, Extrovert or Ambivert?",
+  answer:"Ambivert"
+},{
+  question:"Introvert, Extrovert or Ambivert?",
+  answer:"Ambivert"
 }
 ];
 var score = 0;
